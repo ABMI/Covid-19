@@ -1,0 +1,7 @@
+atlasId,atlasName,cohortId,name
+32,[SCY]ARB user (ARB vs CCB),32,SCYARB_user_ARB_vs_CCB
+33,[SCY]CCB user (ARB vs CCB),33,SCYCCB_user_ARB_vs_CCB
+30,[SCY]COVID-19 Confirmed cases,30,SCYCOVID19_Confirmed_cases
+24,[SCYou]All-cause mortality,24,SCYouAllcause_mortality
+35,[SCYou]All-cause mortality not related with COVID-19,35,SCYouAllcause_mortality_not_related_with_COVID19
+34,[SCYou]All-cause mortality related with COVID-19,34,SCYouAllcause_mortality_related_with_COVID19
